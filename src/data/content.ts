@@ -34,7 +34,7 @@ export const services: Service[] = [
     id: '01',
     title: 'Laser Cutting',
     description:
-      'MS, SS & Aluminium up to 25mm, Brass up to 10mm, Copper up to 5mm — cut from your DXF/DWG.',
+      'MS, SS & Aluminium up to 20mm, Brass up to 10mm, Copper up to 5mm — cut from your DXF/DWG.',
   },
   {
     id: '02',
