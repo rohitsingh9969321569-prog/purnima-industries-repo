@@ -34,7 +34,7 @@ export const services: Service[] = [
     id: '01',
     title: 'Laser Cutting',
     description:
-      'MS, SS & Aluminium up to 25mm, Brass up to 10mm, Copper up to 5mm — cut from your DXF/DWG.',
+      'MS, SS & Aluminium up to 20mm, Brass up to 10mm, Copper up to 5mm — cut from your DXF/DWG.',
   },
   {
     id: '02',
@@ -79,9 +79,9 @@ export const machines: Machine[] = [
 ];
 
 export const materialCapacities: MaterialCapacity[] = [
-  { material: 'Mild Steel (MS)', thickness: '0.3 – 25 mm', process: 'Laser Cutting' },
-  { material: 'Stainless Steel (SS)', thickness: '0.3 – 25 mm', process: 'Laser Cutting' },
-  { material: 'Aluminium', thickness: '0.3 – 25 mm', process: 'Laser Cutting' },
+  { material: 'Mild Steel (MS)', thickness: '0.3 – 20 mm', process: 'Laser Cutting' },
+  { material: 'Stainless Steel (SS)', thickness: '0.3 – 20 mm', process: 'Laser Cutting' },
+  { material: 'Aluminium', thickness: '0.3 – 20 mm', process: 'Laser Cutting' },
   { material: 'Brass', thickness: '0.3 – 10 mm', process: 'Laser Cutting' },
   { material: 'Copper', thickness: '0.3 – 5 mm', process: 'Laser Cutting' },
 ];

@@ -21,7 +21,7 @@ export const workItems: WorkItem[] = [
   {
     slug: 'ms-ring-plate',
     title: 'MS Ring Plate',
-    details: 'Laser cut · Custom OD / ID · Up to 25 mm',
+    details: 'Laser cut · Custom OD / ID · Up to 20 mm',
     alt: 'Laser cut mild steel ring plate with marked positions, lying on the shop floor',
   },
   {
